@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FindLocalHolidays</string>
+    <string name="findworldwideholidays">Find Worldwide Holidays</string>
+    <string name="chooseyear">Year</string>
+    <string name="choosecoutry">Country</string>
+    <string name="find">Find</string>
+    <string name="holidayName">Holiday Name</string>
+    <string name="holidaylocalName">Holiday Local Name</string>
+    <string name="date">01/02/2022</string>
+    <string name="year">1970</string>
+    <string name="pleasewait">Please wait as data \n is fetched!</string>
+
+
+    <string-array name="coutries">
+        <item>Greece (GR)</item>
+        <item>Germany (DE)</item>
+        <item>France (FR)</item>
+        <item>Spain (ES)</item>
+        <item>Turkey (TR)</item>
+        <item>Canada (CA)</item>
+        <item>Australia (AU)</item>
+        <item>United States (US)</item>
+    </string-array>
+</resources>
